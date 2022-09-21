@@ -1,2 +1,2 @@
 # Marketing
-Universit project: RFM model and Churn model
+Universit project: RFM model to segmentate customers and Churn model to predict if they will churn or not
